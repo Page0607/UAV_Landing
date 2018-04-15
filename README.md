@@ -1,37 +1,14 @@
-## Welcome to GitHub Pages
+## Abstract
 
 You can use the [editor on GitHub](https://github.com/Page0607/UAV_Landing/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+With the popularization and wide application of drones in military and civilian fields, the safety of drones has to be considered. At present, the failure rate and drop rate of drones are still much higher than that of manned aircraft. Therefore, it is imperative to improve the research on the safe landing and recovery of drones. However, most drone navigation methods rely on GPS signals. When GPS signals are missing, these drones cannot land or recover properly. In fact, with the help of optical equipment and image recognition technology, the position and posture of the drone in the three dimensional world can be obtained, and the environment where the drone are located can be perceived. In this paper, based on monocular visual simultaneous localization and mapping (SLAM), we present an algorithm of autonomous landing area selection for drones in an emergency and unstructured environment. First, a drone scans the scene, acquires key frames in the SLAM system to estimate the pose of the drone and to create a three dimensional point cloud map. Then, the filtered three-dimensional point cloud map is converted into a grid map. The grid map is further divided into different regions to select the appropriate landing zone. Thus it can carry out autonomous route planning. Finally, when it stops upon the landing field, it will start the descent mode near the landing area. As a visual landing technology, we evaluate the proposed algorithm on two tasks: scene reconstruction integrity and landing location security. Experiments in multiple sets of real scenes show that the environmental awareness and the landing area selection have high robustness and real-time performance.
 
-### Markdown
+### Demo
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+Demo video for Nighttime Foreground Pedestrian Detection based on Three-dimensional Cube Surface Model can be download [here](http://v.youku.com/v_show/id_XMzU0MDgxMjIwMA==.html?spm=a2h3j.8428770.3416059.1).
 
-```markdown
-Syntax highlighted code block
+### Reference
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Page0607/UAV_Landing/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+submitted to Electronics
