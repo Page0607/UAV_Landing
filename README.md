@@ -4,7 +4,7 @@ With the popularization and wide application of drones in military and civilian 
 
 ### Demo
 
-![Image of Yaktocat](https://github.com/Page0607/UAV_Landing/blob/master/UAV_AutoLanding_Demo.jpg)
+![](https://github.com/Page0607/UAV_Landing/blob/master/UAV_AutoLanding_Demo.jpg)
 Demo video for Nighttime Foreground Pedestrian Detection based on Three-dimensional Cube Surface Model can be download [here](http://v.youku.com/v_show/id_XMzU0MDgxMjIwMA==.html?spm=a2h3j.8428770.3416059.1).
 
 ### Reference
