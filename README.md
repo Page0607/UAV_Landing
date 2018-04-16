@@ -4,7 +4,7 @@ With the popularization and wide application of drones in military and civilian 
 
 ### Demo
 
-[![Video](UAV_AutoLanding_Demo.jpg)](http://v.youku.com/v_show/id_XMzU0MDgxMjIwMA==.html?spm=a2h3j.8428770.3416059.1) [Demo](http://v.youku.com/v_show/id_XMzU0MDgxMjIwMA==.html?spm=a2h3j.8428770.3416059.1) video for Monocular Vision SLAM Based UAV Autonomous Landing in Emergency and Unknown Environment.
+[![Video](UAV_AutoLanding_Demo.jpg)](https://youtu.be/fBHkPCdsUXY) [Demo](https://youtu.be/fBHkPCdsUXY) video for Monocular Vision SLAM Based UAV Autonomous Landing in Emergency and Unknown Environment.
 
 ### Reference
 
