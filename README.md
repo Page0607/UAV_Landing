@@ -8,4 +8,4 @@ With the popularization and wide application of drones in military and civilian 
 
 ### Reference
 
-submitted to Electronics
+1.Tao, Y.; Peiqi, L.; Huiming, Z.; Jing, L.; Zhi, L. Monocular Vision SLAM Based UAV Autonomous Landing in Emergency and Unknown Environment. Submitted to Electronics.
